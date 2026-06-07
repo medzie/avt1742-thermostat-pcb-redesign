@@ -28,7 +28,7 @@ A hardware cloning and optimization project based on the commercial AVT1742 exte
 Here is the redesigned single-layer PCB layout with the optimized component placement and solid ground pour:
 
 * **Schematic Preview:**
-![Schematic Preview](photos/schematic_capture.png)
+![Schematic Preview](photos/schematic_capture.pdf)
 
 * **PCB Layout & Tracks (Bottom Layer):**
 ![PCB Layout](photos/pcb_bottom_layout.png)
